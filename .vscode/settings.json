@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "DAY08_Pivot_table",
+            "database": "./Day08_practice.db"
+        }
+    ]
+}
